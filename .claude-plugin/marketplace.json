@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"商业分析报告专家：原始数据到图文报告一条龙（数据清洗→口径统一→洞察提炼→报告/PPT），复用 lhg-excel 与 lhg-ppt 方法论","name":"lhg-biz-report","source":"./"}]}

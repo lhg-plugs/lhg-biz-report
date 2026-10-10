@@ -1,0 +1,4 @@
+chart_id,title,metric,value,period,unit,y_from_zero,note
+c1,营收趋势,营收,120,2026Q3,万元,true,
+c2,渠道占比,线上占比,55,2026Q3,,false,
+c3,没人引用的图,营收,999,2026Q3,万元,true,
